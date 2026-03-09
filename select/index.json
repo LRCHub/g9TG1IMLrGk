@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "NOT FOUND",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-03-09T11:00:49.539050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lost Not Found",
+      "artist": "Dirty Vegas",
+      "has_synced": false,
+      "path": "select/01_Lost_Not_Found_Dirty_Vegas.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lost & Not Found",
+      "artist": "Chase & Status feat. Louis M^ttrs",
+      "has_synced": true,
+      "path": "select/02_Lost_&_Not_Found_Chase_&_Status_feat._Louis_M^ttrs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lost & Not Found (Feat. Louis M^ttrs)",
+      "artist": "Chase & Status",
+      "has_synced": true,
+      "path": "select/03_Lost_&_Not_Found_(Feat._Louis_M^ttrs)_Chase_&_Status.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lost and Not Found",
+      "artist": "Sear Bliss",
+      "has_synced": false,
+      "path": "select/04_Lost_and_Not_Found_Sear_Bliss.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "File Not Found - Live",
+      "artist": "Jovanotti",
+      "has_synced": true,
+      "path": "select/05_File_Not_Found_-_Live_Jovanotti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "File not found",
+      "artist": "Jovanotti",
+      "has_synced": true,
+      "path": "select/06_File_not_found_Jovanotti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lost & Not Found",
+      "artist": "Chase & Status feat. Louis Mattrs",
+      "has_synced": true,
+      "path": "select/07_Lost_&_Not_Found_Chase_&_Status_feat._Louis_Mattrs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lost & Not Found",
+      "artist": "Chase & Status",
+      "has_synced": true,
+      "path": "select/08_Lost_&_Not_Found_Chase_&_Status.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "So Far I Have Not Found the Science",
+      "artist": "Mike Doughty",
+      "has_synced": false,
+      "path": "select/09_So_Far_I_Have_Not_Found_the_Science_Mike_Doughty.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "So Far I Have Not Found the Science",
+      "artist": "Soul Coughing",
+      "has_synced": true,
+      "path": "select/10_So_Far_I_Have_Not_Found_the_Science_Soul_Coughing.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lost Not Found",
+      "artist": "Neffex",
+      "has_synced": true,
+      "path": "select/11_Lost_Not_Found_Neffex.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lost & Not Found",
+      "artist": "Chase & Status feat. Louis M^ttrs",
+      "has_synced": true,
+      "path": "select/12_Lost_&_Not_Found_Chase_&_Status_feat._Louis_M^ttrs.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "404 Not Found",
+      "artist": "REOL",
+      "has_synced": true,
+      "path": "select/13_404_Not_Found_REOL.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "NOT FOUND",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/14_NOT_FOUND_Mr.Children.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOT FOUND",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_NOT_FOUND_Mr.Children.txt"
+    }
+  ]
+}
